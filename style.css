@@ -1,0 +1,33 @@
+#header{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+#nav{
+    margin: auto;
+    width: 70%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+#nav ul {
+    display:block;
+    overflow: hidden;
+    width: 50%;
+    margin: auto;
+
+}
+
+#nav li {
+    display:block;
+    float: left;
+}
+
+#nav li a {
+    display:block;
+    list-style-type: none;
+    text-align: center;
+    padding: 10px;
+}
